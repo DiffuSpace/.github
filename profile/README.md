@@ -22,6 +22,5 @@
 <p align="center">
   <a href="https://diffuspace.ai/">Website</a> &nbsp;·&nbsp;
   <a href="https://diffuspace.ai/research">Research</a> &nbsp;·&nbsp;
-  <a href="https://chat.diffuspace.ai/">Chat</a> &nbsp;·&nbsp;
   <a href="mailto:job@diffuspace.ai">Join us</a>
 </p>
